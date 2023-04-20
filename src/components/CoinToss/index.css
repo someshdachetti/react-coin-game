@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.bgColor {
+  background-image: linear-gradient(to left, #e2a139, #f9d423);
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.whiteCard {
+  background-color: white;
+  height: 55vh;
+  width: 30vw;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  height: 150px;
+  width: 150px;
+}
+button {
+  height: 23px;
+  width: 77px;
+  border-radius: 6px;
+}
+.x {
+  display: flex;
+  justify-content: space-between;
+  align-items: space-between;
+}
+.y {
+  margin: 16px;
+  padding: 20px;
+}
